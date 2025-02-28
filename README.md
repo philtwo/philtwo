@@ -2,7 +2,7 @@
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**
 
-I'm a full-stack software developer navigating my way through my idea of a technologically advanced future. I'm a university computer science graduate, honing my coding skills to evolve both my life and those around me. All code is built from the ground up.
+I'm a full-stack software developer navigating my way through understanding more and more about technology. I'm a university computer science graduate, honing my coding skills to evolve both my life and those around me. All code is built from the ground up.
 ---
 ### 🪛 Languages
 
