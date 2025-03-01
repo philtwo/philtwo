@@ -22,5 +22,10 @@ I'm a full-stack software developer navigating my way through understanding more
 #
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
