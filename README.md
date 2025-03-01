@@ -21,11 +21,11 @@ I'm a full-stack software developer navigating my way through understanding more
 
 #
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:SHOW_LANGUAGE-->
 
 ```txt
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:SHOW_LANGUAGE-->
 
