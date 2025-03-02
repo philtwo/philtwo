@@ -21,4 +21,6 @@ I'm a full-stack software developer navigating my way through understanding more
 
 #
 
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRiNWhqZXhhNm0wMWs5aDVreHFsZHppYjdldzhwcTBqeGs5NXIzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
+
 
