@@ -24,6 +24,7 @@ I'm a full-stack software developer navigating my way through understanding more
 
 ![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
