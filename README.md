@@ -25,6 +25,15 @@ I'm a full-stack software developer navigating my way through understanding more
 ![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410)
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML         1 hr 4 mins     ██████████████████░░░░░░░   71.74 %
+C            25 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 
