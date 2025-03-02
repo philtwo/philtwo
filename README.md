@@ -1,6 +1,8 @@
 #  Hi, I'm Philip Jones 👋
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**
+
+**`📧philipjones010425@gmail.com📧 `** [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
 <img align="right" width="60px" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
 
 I'm a full-stack software developer navigating my way through understanding more and more about technology. I'm a university computer science graduate, honing my coding skills to evolve both my life and those around me. All code is built from the ground up.
