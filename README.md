@@ -6,7 +6,9 @@
 <img align="right" width="60px" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
 
 <h5>I'm a full-stack software developer navigating my way through understanding more and more about technology. I'm a university computer science graduate, honing my coding skills to evolve both my life and those around me. All code is built from the ground up.</h5>
----
+
+#
+
 <h3>🪛 Languages </h3>
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
