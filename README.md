@@ -4,9 +4,9 @@
 
 **`📧philipjones010425@gmail.com`** [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
 <img align="right" width="60px" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
-
+```txt
 <h5>I'm a full-stack software developer and a university computer science graduate. I'm honing my coding skills to evolve both my life and those around me. All code is built from the ground up.</h5>
-
+```
 #
 
 <h3>🪛 Languages </h3>
