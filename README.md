@@ -3,7 +3,7 @@
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**
 
 **`📧philipjones010425@gmail.com`** [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
-<img align="center" width="60px" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
 ```txt
 I'm a full-stack software developer and a university 
 computer science graduate. I'm honing my coding skills 
