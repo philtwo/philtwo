@@ -3,7 +3,6 @@
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**
 
 **`📧philipjones010425@gmail.com`** [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" />
 ```txt
 I'm a full-stack software developer and a university 
 computer science graduate. I'm honing my coding skills 
@@ -12,7 +11,7 @@ is built from the ground up.
 ```
 #
 
-<h3>🪛 Languages </h3>
+<h3>🪛 Languages <img align="left" alt="java" width="30px" style="padding-right:10px;" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" /> </h3>
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="java" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
