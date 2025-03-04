@@ -27,9 +27,6 @@ is built from the ground up.
 <br />
 
 #
-
-![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -41,5 +38,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410)
 
 
