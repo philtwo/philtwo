@@ -30,10 +30,10 @@ is built from the ground up.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 18 mins    █████████████████▓░░░░░░░   70.21 %
-HTML         22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-Python       10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          1 hr 45 mins    ██████████████████░░░░░░░   71.85 %
+HTML         41 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
