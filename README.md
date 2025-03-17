@@ -4,7 +4,7 @@
 
 **`📧philipjones010425@gmail.com`** [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
 ```txt
-I'm a full-stack software developer and a recent university 
+I'm a software developer and a recent university 
 computer science graduate. I'm honing my coding skills 
 to evolve both my life and those around me. All code 
 is built from the ground up.
