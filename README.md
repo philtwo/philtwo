@@ -6,7 +6,7 @@
 ```txt
 I'm a software developer and a recent university 
 computer science graduate. I'm honing my coding skills 
-to evolve both my life and those around me. All code 
+to evolve both my life and that of those around me. All code 
 is built from the ground up.
 ```
 #
