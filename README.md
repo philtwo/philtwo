@@ -31,10 +31,11 @@ is built from the ground up.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          3 hrs 32 mins   ████████████████░░░░░░░░░   64.20 %
-HTML         1 hr 54 mins    ████████▓░░░░░░░░░░░░░░░░   34.79 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+CSS          3 hrs 29 mins   █████████████░░░░░░░░░░░░   52.13 %
+HTML         1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Python       1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+Other        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
