@@ -30,11 +30,7 @@ evolve both my life and that of those around me.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 57 mins    ██████████████████████▒░░   88.86 %
-JavaScript   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-CSS          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
