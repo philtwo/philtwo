@@ -30,11 +30,11 @@ evolve both my life and that of those around me.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 25 mins    ████████████▓░░░░░░░░░░░░   50.82 %
-CSS          1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.94 %
-HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript   3 hrs 44 mins   ███████████████▒░░░░░░░░░   61.31 %
+CSS          1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
+JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
