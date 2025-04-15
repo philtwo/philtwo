@@ -6,7 +6,7 @@
 ```txt
 I'm a software developer and a recent computer science graduate
 from Saint Mary's University. I'm honing my coding skills to
-evolve both my life and that of those around me!
+evolve both my life and that of those around me.
 ```
 #
 
