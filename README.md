@@ -30,11 +30,10 @@ evolve both my life and that of those around me.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          2 hrs 32 mins   █████████████░░░░░░░░░░░░   51.51 %
-HTML         1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   31.68 %
-Markdown     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JavaScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+CSS          2 hrs 33 mins   ██████████████▒░░░░░░░░░░   56.74 %
+HTML         1 hr 33 mins    ████████▓░░░░░░░░░░░░░░░░   34.74 %
+JavaScript   22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
