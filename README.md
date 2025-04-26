@@ -25,6 +25,7 @@ evolve both my life and that of those around me.
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="sql"/>
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="pandas"/>
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" title="unity" />
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src= "https://github.com/user-attachments/assets/f79bd760-35cb-488f-bc88-ea77c44b7f3c" title="aesprite" />
           
 
 <br />
