@@ -1,16 +1,18 @@
 #  Hi, I'm Philip Jones 👋
 
-**` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**
+**` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**<img align="right" src="https://github.com/user-attachments/assets/3ef6b740-55ad-4f0f-b145-aacc8fa1697b"/>
 
 **`📧philipjones010425@gmail.com`** | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
-```txt
-I'm a software developer and a recent computer science graduate
-from Saint Mary's University. I'm honing my coding skills to
-evolve both my life and that of those around me.
-```
-#
 
-<h3>🪛 Tools I use <img align="right" alt="java" width="30px" style="padding-right:10px;" src= "https://github.com/user-attachments/assets/99c8ab05-03b4-4312-9c3f-8f1fc7d8cdc6" /> </h3>
+
+I'm a software developer and a recent computer science graduate <br />
+from Saint Mary's University. I'm honing my coding skills to evolve <br />
+both my life and that of those around me.
+<br />
+
+#
+<img align="left" width="350" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
+<h3>🪛 Tools I use</h3>
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python"/>
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html5"/>
@@ -43,6 +45,5 @@ Bash         32 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Happy Pixel GIF by SMOL](https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410)
 
 
