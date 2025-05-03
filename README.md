@@ -1,14 +1,14 @@
 #  Hi, I'm Philip Jones 👋
 
-**` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `**<img align="right" src="https://github.com/user-attachments/assets/3ef6b740-55ad-4f0f-b145-aacc8fa1697b"/>
+**` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `** 
 
-**`📧philipjones010425@gmail.com`** | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
+📧philipjones010425@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
 
 
-I'm a software developer and a recent computer science graduate <br />
-from Saint Mary's University. I'm honing my coding skills to evolve <br />
-both my life and that of those around me.
-<br />
+I'm a software developer and a recent <img align="right" width="100px" src="https://github.com/user-attachments/assets/3ef6b740-55ad-4f0f-b145-aacc8fa1697b"/> <br />
+computer science graduate from Saint Mary's University. <br />
+I'm honing my coding skills to evolve <br />
+both my life and that of those around me. <br />
 
 #
 <img align="left" width="350" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
