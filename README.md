@@ -36,11 +36,11 @@ both my life and that of those around me. <br />
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          9 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.26 %
-TypeScript   5 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
-JavaScript   2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-HTML         1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+CSS          7 hrs 37 mins   ████████████████░░░░░░░░░   64.32 %
+TypeScript   3 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JavaScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
