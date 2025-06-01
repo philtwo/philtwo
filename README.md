@@ -2,7 +2,7 @@
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `** 
 
-📧philipjones010425@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
+📧philipjonesdev@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
 
 
 I'm a software developer and a recent <img align="right" width="100px" src="https://github.com/user-attachments/assets/3ef6b740-55ad-4f0f-b145-aacc8fa1697b"/> <br />
