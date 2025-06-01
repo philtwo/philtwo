@@ -1,4 +1,4 @@
-#  Hi, I'm Philip Jones 👋
+#  Hi, I'm Philip 👋
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `** 
 
