@@ -34,17 +34,7 @@ both my life and that of those around me. <br />
 <br />
 <br />
 <br />
-<!--START_SECTION:waka-->
 
-```txt
-JavaScript   34 mins         █████████▓░░░░░░░░░░░░░░░   38.92 %
-CSS          23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Python       18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-SCSS         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
