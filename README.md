@@ -12,6 +12,7 @@ both my life and that of those around me. <br />
 
 #
 <img align="left" width="350" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
+<br />
 <h3>🪛 Tools I use</h3>
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python"/>
