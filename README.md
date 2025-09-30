@@ -9,7 +9,7 @@ computer science graduate from Saint Mary's University. <br />
 I'm honing my coding skills to evolve <br />
 both my life and that of those around me. <br />
 
-
+<br />
 
 <h2>🪛 Tools I use</h3>
 
