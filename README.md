@@ -5,7 +5,7 @@
 📧philipjonesdev@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
 
 
-I'm a software developer and a recent <img align="right" width="100px" src="https://github.com/user-attachments/assets/3ef6b740-55ad-4f0f-b145-aacc8fa1697b"/> <br />
+I'm a software developer and a recent <br />
 computer science graduate from Saint Mary's University. <br />
 I'm honing my coding skills to evolve <br />
 both my life and that of those around me. <br />
