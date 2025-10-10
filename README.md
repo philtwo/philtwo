@@ -2,7 +2,7 @@
 
 <img  align="right" width="325" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
 
-<br />
+<br clear="left"/>
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `** 
 
