@@ -1,6 +1,6 @@
 <h1 > Hi, I'm Philip 👋</h1>
 
-<img  align="right" width="325" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
+<img  align="left" width="325" src="https://github.com/user-attachments/assets/8269f923-57b7-42b5-aaba-f8ef3712d410"/>
 
 <br clear="left"/>
 
