@@ -6,7 +6,7 @@
 
 **` ⌨️ Software Developer 💻 | 💡 creator 🎞️ `** 
 
-📧philipjonesdev@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/) | [Portfolio](https://philipjones.netlify.app/)
+📧philipjonesdev@gmail.com | [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philip-jones-12b2181b2/)
 
 I'm a software developer and a recent <br />
 computer science graduate from Saint Mary's University. <br />
